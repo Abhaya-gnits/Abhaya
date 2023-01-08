@@ -10,5 +10,6 @@ But remember," Everything depends on you perspective"," Don't magnify your issue
     - K Nikhila: +91 85009 44123
     - Vishalakshi:+91 83411 93309
 
-Contributors:
+- Contributors:
+  - Dvs Chandana
 (https://www.github.com/chandu6111)
